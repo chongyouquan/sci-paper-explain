@@ -1,4 +1,4 @@
-# Scientific Paper Explainer - Minimal Example (RAG + Vector Search)
+# Scientific Paper Explainer - Small Example (RAG using LangChain + Vector Search using FAISS)
 
 import os
 import faiss
